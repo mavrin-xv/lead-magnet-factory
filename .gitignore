@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+magnets/
+*.notion.json
+!examples/**/*.notion.json
+.DS_Store

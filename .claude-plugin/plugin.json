@@ -1,0 +1,12 @@
+{
+  "name": "lead-magnet-factory",
+  "description": "Turns an article, voice note, research notes or survey answers into a short lead magnet with a quick win (HTML page or Notion), builds and checks the comment-keyword to DM to link delivery flow, and writes give-away posts per platform that promote it.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Artem Mavrin",
+    "url": "https://github.com/mavrin-xv"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mavrin-xv/lead-magnet-factory",
+  "repository": "https://github.com/mavrin-xv/lead-magnet-factory"
+}

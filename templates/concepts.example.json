@@ -1,0 +1,12 @@
+[
+  {
+    "name": "[CONCEPT NAME]",
+    "hook": "[ONE LINE IN THE READER'S WORDS]",
+    "type": "reveal-problem",
+    "format": "checklist",
+    "bridge": "[HOW FINISHING IT LEADS TO THE OFFER]",
+    "quick_win_minutes": 15,
+    "scores": {"specific": 4, "bridge": 4, "quick_win": 5, "value": 4, "ai_proof": 3},
+    "notes": "[WHY THESE SCORES]"
+  }
+]

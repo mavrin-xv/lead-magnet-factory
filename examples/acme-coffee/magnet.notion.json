@@ -1,0 +1,815 @@
+{
+ "title": "Dial in your espresso in 15 minutes: 22 checks for small cafes",
+ "block_count": 38,
+ "batches": [
+  [
+   {
+    "object": "block",
+    "type": "callout",
+    "callout": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "For cafe owners and head baristas with one machine and beans bought by the bag. In 15 minutes you will have a shot that tastes the same as yesterday's, and a list of what to fix this week."
+       }
+      }
+     ],
+     "icon": {
+      "type": "emoji",
+      "emoji": "☕"
+     }
+    }
+   },
+   {
+    "object": "block",
+    "type": "paragraph",
+    "paragraph": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "When we asked 24 independent cafe owners about their biggest challenge, 10 wrote about shots that taste different from one morning to the next. Source: Acme Coffee customer survey, 2026 (invented example data)."
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "paragraph",
+    "paragraph": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Most of the time it is not the beans. It is an unweighed dose, a grind changed in big jumps, and old grounds sitting in the grinder."
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "heading_2",
+    "heading_2": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Start here: the 5 checks that fix most mornings"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "paragraph",
+    "paragraph": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Do these five in order before opening. They take about 15 minutes and need a scale that reads 0.1 g and a timer."
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Weigh the dose every time."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: a 1 g swing changes the shot more than most grind changes. Check: 18.0 g in the basket for a double (or your recipe), on the scale, every shot."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Weigh the shot in the cup."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: volume lies, crema makes shots look bigger. Check: the scale under the cup reads 36 g when you stop (a 1:2 ratio for an 18 g dose)."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Time from pump on to pump off."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: time tells you which way to move the grind. Check: 25 to 30 seconds for the 36 g."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Move the grind one step at a time."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: big jumps overshoot and you chase the shot all morning. Check: fast and sour means one step finer; slow and bitter means one step coarser."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Purge after every grind change."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: the old grounds in the chute go into the next shot. Check: grind and throw away about one dose (or the amount your grinder holds) before the next shot."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "heading_2",
+    "heading_2": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Before the first shot"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Machine warm for at least 20 minutes."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: a cold group head pulls sour shots even with the right grind. Check: the group head is hot to the touch and the boiler light has cycled."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Flush the group head."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: it clears old water and stabilises temperature. Check: run water for 3 seconds before locking in the portafilter."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Portafilter dry and clean."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: water and old coffee in the basket make uneven shots. Check: wipe the basket dry before every dose."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Beans rested after roast."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: very fresh beans release gas and pull wild shots. Check: the roast date on the bag is at least 7 days ago for espresso."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Beans used within about 30 days of roast."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: stale beans taste flat and pull fast. Check: the roast date is less than about a month ago."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Only today's beans in the hopper."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: beans left in the hopper overnight go stale faster. Check: the hopper holds roughly one day's use; the rest stays in a sealed bag."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "heading_2",
+    "heading_2": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Pulling the shot"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Even distribution before tamping."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: clumps make channels and uneven taste. Check: the bed looks level before you tamp."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Level tamp, same pressure each time."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: a tilted tamp lets water run down one side. Check: the coffee surface is flat and the tamper sits level."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Lock in and start straight away."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: a hot group head starts cooking the coffee before the shot. Check: under 5 seconds between locking in and pressing start."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Taste every dial-in shot."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: numbers get you close, taste confirms. Check: sour means under-extracted (finer), bitter or dry means over-extracted (coarser)."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Write down the settings that worked."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: tomorrow starts from today's answer, not from zero. Check: grind setting, dose, yield and time on a card by the grinder."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "heading_2",
+    "heading_2": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "During the day"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Re-check after the morning rush."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: grinders warm up and the shot speeds up. Check: weigh and time one shot around midday, adjust one step if it drifted."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Same recipe for every barista on shift."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: three people pulling three recipes means three different coffees. Check: the card by the grinder is the recipe everyone uses."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "New bag, quick re-check."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: each bag can need a small grind change. Check: weigh and time the first shot from a new bag."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "heading_2",
+    "heading_2": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Weekly"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Clean the grinder burrs and chute."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: old oily grounds taste bitter and stale. Check: no oily residue on the burrs or in the chute."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Backflush the group heads with cleaner."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: old oils build up in the shower screen. Check: the water runs clear after the cleaning cycle."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "to_do",
+    "to_do": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Check the shower screen and gasket."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Why: a worn gasket leaks and a blocked screen sprays unevenly. Check: no coffee on the outside of the portafilter after a shot."
+       }
+      }
+     ],
+     "checked": false
+    }
+   },
+   {
+    "object": "block",
+    "type": "heading_2",
+    "heading_2": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Mistakes to avoid"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Changing dose and grind at the same time."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Fix: change one thing per shot, so you know which change worked."
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Judging the shot by colour or volume."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Fix: weigh and time it, then taste."
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Blaming the beans first."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Fix: run the 5 checks under Start here before you change the coffee."
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Keeping the hopper full overnight."
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " Fix: fill it for the day, keep the rest sealed."
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "heading_2",
+    "heading_2": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "Next step"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "object": "block",
+    "type": "paragraph",
+    "paragraph": {
+     "rich_text": [
+      {
+       "type": "text",
+       "text": {
+        "content": "You now have a dial-in routine that takes 15 minutes and a list of what to fix this week. If your checks keep pointing at stale or uneven stock, that is the part we fix: our wholesale subscription delivers on a schedule and we dial in your first bag with you. Reply "
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": "DIALIN"
+       },
+       "annotations": {
+        "bold": true
+       }
+      },
+      {
+       "type": "text",
+       "text": {
+        "content": " to the message that brought you here and we will book a visit."
+       }
+      }
+     ]
+    }
+   }
+  ]
+ ]
+}

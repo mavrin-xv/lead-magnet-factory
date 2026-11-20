@@ -1,0 +1,40 @@
+[
+  {
+    "name": "15-minute dial-in checklist",
+    "hook": "Your shots taste different every morning. It is rarely the beans.",
+    "type": "reveal-problem",
+    "format": "checklist",
+    "bridge": "Owners who find their dial-in gaps are the ones who want the first bag dialled in with them, which the subscription includes.",
+    "quick_win_minutes": 15,
+    "scores": {"specific": 5, "bridge": 4, "quick_win": 5, "value": 4, "ai_proof": 3},
+    "notes": "Top survey theme (8 of 24, plus 2 more about espresso). Owner's own visit routine makes it first-hand."
+  },
+  {
+    "name": "Weekly bean order calculator",
+    "hook": "Run out on Saturday or throw away stale bags? Order by numbers, not by guessing.",
+    "type": "one-step",
+    "format": "calculator",
+    "bridge": "The calculator gives the weekly amount; the subscription delivers exactly that on a schedule.",
+    "quick_win_minutes": 10,
+    "scores": {"specific": 4, "bridge": 5, "quick_win": 4, "value": 4, "ai_proof": 3},
+    "notes": "Second theme (6 of 24). Strongest bridge. Needs a small page with JavaScript, more build time."
+  },
+  {
+    "name": "Barista training routine",
+    "hook": "Every new hire pulls shots differently.",
+    "type": "sample",
+    "format": "playbook",
+    "bridge": "Weak: training is not what the subscription sells.",
+    "quick_win_minutes": 45,
+    "scores": {"specific": 3, "bridge": 2, "quick_win": 2, "value": 4, "ai_proof": 3}
+  },
+  {
+    "name": "The complete guide to coffee origins",
+    "hook": "Everything about where coffee comes from.",
+    "type": "sample",
+    "format": "course",
+    "bridge": "Origins are on the bags, loosely related.",
+    "quick_win_minutes": 90,
+    "scores": {"specific": 2, "bridge": 3, "quick_win": 1, "value": 2, "ai_proof": 1}
+  }
+]

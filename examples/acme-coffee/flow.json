@@ -1,0 +1,31 @@
+{
+  "platform": "instagram",
+  "magnet_name": "Dial in your espresso in 15 minutes: 22 checks for small cafes",
+  "magnet_url": "https://example.com/dial-in",
+  "keyword": "DIALIN",
+  "placements": [
+    "reel-dialin",
+    "carousel-dialin",
+    "story-dialin"
+  ],
+  "utm": {
+    "source": "instagram",
+    "medium": "dm",
+    "campaign": "dialin-checklist"
+  },
+  "public_replies": [
+    "Sent, check your DMs.",
+    "In your inbox now. Tell me which step you start with.",
+    "Done. The checklist is in your DMs.",
+    "On its way. If it did not arrive, check message requests."
+  ],
+  "first_dm": "Here is the dial-in checklist you asked for. Tap below and I will send the link.",
+  "button_label": "Send the checklist",
+  "link_dm": "Here it is: {link}\nStart with the 5 checks under Start here, they take about 15 minutes.\n(Automated reply. Write here any time and a person answers.)",
+  "follow_up_dm": "Did the checklist open? Reply with your grinder model and I will send a starting grind setting for it.",
+  "follow_up_after_hours": 20,
+  "telegram": {
+    "bot_username": "",
+    "start_payload": ""
+  }
+}

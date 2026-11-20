@@ -1,0 +1,30 @@
+{
+  "platform": "instagram",
+  "magnet_name": "The 15-minute espresso dial-in checklist",
+  "magnet_url": "https://example.com/dial-in",
+  "keyword": "DIALIN",
+  "placements": [
+    "reel-2026-03-04",
+    "carousel-2026-03-06",
+    "story-2026-03-07"
+  ],
+  "utm": {
+    "source": "instagram",
+    "medium": "dm",
+    "campaign": "dialin-checklist"
+  },
+  "public_replies": [
+    "Sent, check your DMs.",
+    "In your inbox now. Tell me which step you start with.",
+    "Done. The checklist is in your DMs."
+  ],
+  "first_dm": "Here is the dial-in checklist you asked for. Tap below and I will send the link.",
+  "button_label": "Send the checklist",
+  "link_dm": "Here it is: {link} Start with step 1, it takes 5 minutes. (Automated reply. Write here any time and a person answers.)",
+  "follow_up_dm": "Did the checklist open? Reply with your machine model if you want a starting recipe.",
+  "follow_up_after_hours": 20,
+  "telegram": {
+    "bot_username": "",
+    "start_payload": ""
+  }
+}
